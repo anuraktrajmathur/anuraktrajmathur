@@ -25,7 +25,7 @@ I’m a passionate engineer with a strong foundation in vehicle modeling and dyn
 
 ## 🧪 Featured Projects
 
-### 🔹 [MPC-Based Steering Simulation in Python + Blender](link to be added)
+### 🔹 [MPC-Based Steering Simulation in Python + Blender](https://github.com/anuraktrajmathur/mpc_steering_simulation.git)
 A vehicle follows a sine-wave trajectory using a kinematic bicycle model with a heuristic control law. Simulated path data is visualized using Matplotlib and animated in Blender with a CAD car model.
 
 ---
