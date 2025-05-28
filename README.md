@@ -44,7 +44,7 @@ Traffic sign recognition using a convolutional neural network (CNN) trained on t
 
 ## 📬 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anuraktrajmathur)
+- 💼 [LinkedIn](www.linkedin.com/in/anurakt-raj-mathur)
 - ✉️ Email: anuraktrajmathur@gmail.com
 
 ---
