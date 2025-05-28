@@ -28,6 +28,8 @@ I’m a passionate engineer with a strong foundation in vehicle modeling and dyn
 ### 🔹 [MPC-Based Steering Simulation in Python + Blender](https://github.com/anuraktrajmathur/mpc_steering_simulation.git)
 A vehicle follows a sine-wave trajectory using a kinematic bicycle model with a heuristic control law. Simulated path data is visualized using Matplotlib and animated in Blender with a CAD car model.
 
+### 🔹 [🚦 Speed Sign Recognition using CNN 🚗](https://github.com/anuraktrajmathur/CNN_model.git)
+This project implements a Convolutional Neural Network (CNN) to recognize German Traffic Signs (GTSRB dataset).
 ---
 
 ## 🌱 Currently Learning
