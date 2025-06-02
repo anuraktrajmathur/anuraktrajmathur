@@ -31,6 +31,9 @@ A vehicle follows a sine-wave trajectory using a kinematic bicycle model with a 
 ### 🔹 [Speed Sign Recognition using CNN](https://github.com/anuraktrajmathur/CNN_model.git)
 Traffic sign recognition using a convolutional neural network (CNN) trained on the GTSRB dataset. The model detects and classifies speed limit signs from live webcam feed with real-time contour detection and image preprocessing.
 
+### 🔹[Vehicle Modelling and Behaviour Assessment](https://github.com/anuraktrajmathur/vehicle_modelling.git)
+Simulates the Single Track (Bicycle) Vehicle Model using two tyre models—Linear and Non-linear (Pacejka)—to study vehicle response characteristics: yaw rate, lateral acceleration, body slip angle, and lateral tyre forces under a steering maneuver.
+
 ---
 
 ## 🌱 Currently Learning
